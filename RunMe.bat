@@ -1,0 +1,1 @@
+\WSAppBAK\WSAppPkgIns.exe .\APPX\Microsoft.Reader_6.3.9654.17044_x64__8wekyb3d8bbwe.appx
